@@ -1,0 +1,31 @@
+
+
+body{
+    background-color: snow;
+}
+
+.heading{
+ font-family: cursive;
+ position: relative;
+}
+h1{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+hr{
+    border-top: 5px;
+    border-style: dotted;
+    border-bottom: 0;
+    border-color: gray;
+    width: 10%;
+}
+#me{
+    border-radius: 50%;
+    border: 30px;
+    height: 300px;
+    width: 300px;
+}
+table, th, td {
+    border:30px solid snow ;
+    border-collapse: collapse;
+  }
